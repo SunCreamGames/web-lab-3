@@ -1,0 +1,12 @@
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\bin\Debug\net6.0\LabThree.Data.deps.json
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\bin\Debug\net6.0\LabThree.Data.dll
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\bin\Debug\net6.0\LabThree.Data.pdb
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.csproj.AssemblyReference.cache
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.AssemblyInfoInputs.cache
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.AssemblyInfo.cs
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.csproj.CoreCompileInputs.cache
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.dll
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\refint\LabThree.Data.dll
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\LabThree.Data.pdb
+D:\Reps\SunCreamGames.github.io\lab3\Api\LabThree\LabThree.Data\obj\Debug\net6.0\ref\LabThree.Data.dll
